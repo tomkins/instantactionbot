@@ -1,0 +1,9 @@
+"Nivosus","SnowMap01",0
+"Moonshine","GrassMap01",1
+"Zenith Cauldron","DesertMap01",2
+"Frostbyte","SnowMap02",3
+"Blade Run","NewGrass",4
+"Mirage","DesertMap02",5
+"The Core","TheCore",6
+"Quarry","Quarry",7
+"Forgotten","Forgotten",8

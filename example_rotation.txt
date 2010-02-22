@@ -1,0 +1,4 @@
+"Nivosus",0,18
+"Frostbyte",0,0
+"Moonshine",0,16
+"Zenith Cauldron",10,0
