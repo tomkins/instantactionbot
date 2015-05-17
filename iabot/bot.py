@@ -1,8 +1,5 @@
 # Copyright Alex Tomkins 2010
 #
-# Redistribution is prohibited (contact me for permission)
-# Modifications are permitted (but don't redistribute)
-#
 import libxml2
 import urllib
 import random

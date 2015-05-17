@@ -2,9 +2,6 @@
 #
 # Copyright Alex Tomkins 2010
 #
-# Redistribution is prohibited (contact me for permission)
-# Modifications are permitted (but don't redistribute)
-#
 import sys
 import logging
 import locale
